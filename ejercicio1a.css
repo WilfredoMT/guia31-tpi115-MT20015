@@ -1,0 +1,10 @@
+/* ejemplo1.css   MT20015  */
+fichero {background-color:blue;}
+ficha {background-color:gray; display:block;}
+nombre {color:white; display:inline;}
+apellido {color:yellow; display:inline;}
+telefono {color:blue; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+mail {color:green; display:inline;}
+url {color:brown; display:inline;}
+
